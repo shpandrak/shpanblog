@@ -1,0 +1,12 @@
+baseURL: 'https://shpandrak.github.io/shpanblog/'
+
+#languageCode: en-us
+title: ShpanBlog
+theme: ["PaperMod"]
+languageCode: "he"
+defaultContentLanguage: "he"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
