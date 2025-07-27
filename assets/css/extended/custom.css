@@ -14,6 +14,9 @@ figure.centered-img img {
 figure.centered-img figcaption {
     font-style: italic;
     text-align: center;
+    color: var(--secondary);
+    font-size: 14px;
+    font-weight: 400;
 }
 
 
