@@ -59,17 +59,62 @@ author: "Shpandrak"
   <figcaption>שיחת שובבים על המים</figcaption>  
 </figure>
 
-מורמונים משונים מביאים לנו ארוחת ערב
+בזמן שישבתי עם עלמה שרלוט על שפת האגם וחשבתי מה להכין לארוחת הערב הראשונה - הבעיה ״פתרה את עצמה״. חברי כת כלשהי (אולי אמיש, אולי אחרת) פנו אלינו וסיפרו שהם הכינו יותר מידי אוכל וחבל להם לזרוק אותו. הם לא ידעו מה זה ישראל או איפה זה - חשבו שהגענו משם בנסיעה או שחיה, אבל היו מאד נחמדים והקלו עלינו את הערב הראשון. נחמד שהילדים כבר יודעים קצת אנגלית. טיול כזה מאפשר להם לשמוע המון אנגלית ואפילו לתרגל כשזרים פונים אליהם בכל מיני סיטואציות. דווקא האנגלית ה״יום יומית״ מאפשרת להם להבין טוב יותר משפטים ומקדמת אותם מאד. פיט סיפר לי שכילד זר פנה אליו בשאלות עבר לו בראש: ״לרוץ ולברוח״, ״לעשות כאילו הוא מפגר״, והוא בחר יפה בלהסביר שהוא ״לא מדבר אנגלית״. עד סוף הטיול, מקווה שלפחות שתי האופציות הראשונות לא תהיינה יותר על הפרק 😅
 
-סנאים עם מחילות קטנות באדמה
+החניון היה נחמד והיו בו הרבה סנאים שקפצו כל הזמן מתוך מחילות תת קרקעיות והפתיעו אנשים שהולכים. האיזור כולו הוא ממלכת הדובים, אז כמובן שאסור להשאיר אוכל בחוץ בלילה ולהיות ערניים במיוחד כשמסתובבים לבד. בזמן ארוחת הערב, הפתיע אותנו סוג של אייל שחלף על פנינו והמשיך בענייניו. אפילו לא ממש התחלנו את הטיול וכבר ראינו לא מעט טבע וחיות!
 
-ארוחת ערב, במבי
+<figure class="centered-img">  
+  <img src="deerDinner.jpg"/>  
+  <figcaption>אייל בארוחת הערב</figcaption>  
+</figure>
 
-לילה ראשון בקראוון משכנע את הנמלה, עושים תרחישים. תורות מי למעלה
+בזמן שהנמלה התרחצה אני והילדים רקמנו את המזימה! בעוד בטיול הקודם הפיטים היו עדיין קטנים ולא רצינו שישנו במיטות העליונות של הקראוון ויצנחו בלילה אל מותם בטרם עת, המצב השתנה. פרט לכך שהם גדלו ב3 שנים, בקראוון הנוכחי יש רשת ביטחון שבהחלט יכולה לעזור. הנמלה לא השתכנעה ורצתה שההורים ישנו בכוך הקטן הזה, אבל בשיתוף פעולה של הילדים כשהנמלה חזרה מהמקלחת הצגנו לה סדרה של תרחישי לילה מומחזים הכוללים - התגלגלות תוך כדי סיוט אל תוך הרשת, הליכה לשרותים מתוך שינה ובעיקר הרבה צחוק של ילדים ממחיזים. התחלנו בפיילוט שינה שלימים יהפוך להיות סידור השינה הקבוע. המבוגרים נהנים ממיטה נורמאלית ונוחה, והילדים מקבלים את החוויה של לישון במקום מיוחד. כולם מרוויחים!
 
-בוקר ראשון טיול, ארוחת בוקר ראשונה בקראוון
+<figure class="centered-img">  
+  <img src="sleepingRV1.jpg"/>  
+  <figcaption>מקרים ותגובות - ״המחזה״</figcaption>  
+</figure>
 
-מסלול Bear's Hump. קצר ותלול, נופים משוגעים.
+<figure class="centered-img">  
+  <img src="sleepingRV2.jpg"/>  
+  <figcaption>הולכים לישון פעם ראשונה בקראוון!</figcaption>  
+</figure>
+
+הלילה הראשון עבר בשלום! אלכס לא צנחה אל מותה, ופיט לא הלך מתוך שינה והצטרף למשפחת דובים! היום נעשה את המסלול הראשון שלנו בטיול. בחרנו במסלול Bear's Hump הקליל שהתחיל קרוב מאד לחניון הלילה שלנו בתוך השמורה. המסלול
+
+<figure class="centered-img">  
+  <img src="sunscreen.jpg"/>  
+  <figcaption>טקס מריחת קרם הגנה - ויוצאים לדרך!</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="bearHumpClimb1.jpg"/>  
+  <figcaption>מתחילים בטיפוס</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="bearHumpClimb2.jpg"/>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="bearHumpClimb3.jpg"/>  
+</figure>
+
+המסלול היה מושלם בתור ״מסלול כניסה לכושר״ קליל (פחות משעתיים כולל הפסקת ארוכה בפסגה - טיפוס של כ200 מטר). הנופים מהפסגה היו ״מטורפים״. אגם קסום, הרים גבוהים, ואפילו ״טירה״ עתיקה כחלק מהנוף (מלון ״הנסיך של ווילס״ נפתח ב1927). בפסגה ביקרו אותנו סנאים שמנמנים שרצו לחלוק איתנו את הארוחה שלנו.
+
+
+
+
+
+
+
+
+
+
+
+
+
+כבר כשהתחלנו לטפס, הבחנו שמנו לב ש״משהו לא בסדר״ ביער. מרבית העצים ״עירומים״ מעלים והירוק היחיד שנראה היה צמחיה נמוכה. הסקנו שכנראה היתה כאן שריפה 
 
 סנאים בפסגה
 
