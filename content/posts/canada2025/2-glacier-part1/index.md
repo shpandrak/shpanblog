@@ -1,6 +1,6 @@
 ---
 title: "עוברים לארה״ב - Glacier National Park"
-date: 2025-07-30T20:00:00Z
+date: 2025-07-28T20:00:00Z
 tags: ["USA", "Glacier National Park"]
 author: "Shpandrak"
 
