@@ -39,11 +39,7 @@ author: "Shpandrak"
   <figcaption></figcaption>  
 </figure>
 
-
-
 הנופים הפנוראמיים של האחו הפתוח היו יפים והיווי גיוון מרענן. ולאורך המסלול טיילו מרמיטות שמידי פעם הציצו מידי פעם מהמחילות שלהן ולשרון לעוברים ושבים. על השביל פגשנו גם פנים אל פנים את עזי ההרים. עזי ההרים, האנדמיות להרי הרוקי, אמנם גדולות, חזקות ומצויידות בקרניים חדות, לא נחשבות מסוכנות בדרך כלל למטיילים ונחשבות לקמע של גליישר.
-
-
 
 <figure class="centered-img">  
   <img src="mg2.HEIC"/>  
@@ -55,7 +51,6 @@ author: "Shpandrak"
   <figcaption>עז הרי הרוקי</figcaption>  
 </figure>
 
-
 <figure class="centered-img">  
   <img src="marmot.HEIC"/>  
   <figcaption></figcaption>  
@@ -66,18 +61,63 @@ author: "Shpandrak"
   <figcaption></figcaption>  
 </figure>
 
+<figure class="centered-img">  
+  <img src="kids.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+המסלול הקליל מסתיים בתצפית ל״אגם החבוי״ (Hidden lake). מי שרוצה להאריך יכול גם להמשיך עד האגם עצמו, אבל בחרנו ביום רגוע, עשינו ועוד נעשה מסלולים מאמצים יותר. בתצפית, אנשים עם משקפות רציניות השקיפו על דובי גריזלי בצידו השני של האגם, אבל למרות שהבאנו משקפת קטנטנה, לא יכולנו לראות כלום. עדיין ״חייבים לנו״ דוב! אחרי נשנושים בתצפית, חזרנו באותה הדרך. עצרנו קצת להשתולל בגוש שלג שטרם הפשיר. 
+
+<figure class="centered-img">  
+  <img src="hiddenLake.HEIC"/>  
+  <figcaption>Hidden lake</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="hiddenLake.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="hiddenLakeOutlookLunch.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="snow1.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="snow2.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="snow3.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="snow4.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="snow5.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="hiddenLakeStats.PNG"/>  
+  <figcaption></figcaption>  
+</figure>
 
 
 
-אוטובוס אדום, תיירים מפעם
+חזרנו מוקדם לחניון הלילה לאחר צהריים רגוע יחד. השיטה של ״לקום מוקדם״ ולסיים עם ה״אטרקציות״ מוקדם מוכיחה את עצמה. אנחנו לא נתקעים בתורים או בעומסים, ונשאר לנו המון זמן לבלות יחד 
 
 
-
-
-
-אלכס - לא מרגיש כמו טיול.
-
-אוטובוס, הפך את התור!
 
 ארוחת פרידה
 
