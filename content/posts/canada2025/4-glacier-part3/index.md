@@ -113,14 +113,84 @@ author: "Shpandrak"
   <figcaption></figcaption>  
 </figure>
 
-
-
-חזרנו מוקדם לחניון הלילה לאחר צהריים רגוע יחד. השיטה של ״לקום מוקדם״ ולסיים עם ה״אטרקציות״ מוקדם מוכיחה את עצמה. אנחנו לא נתקעים בתורים או בעומסים, ונשאר לנו המון זמן לבלות יחד 
+חזרנו מוקדם לחניון הלילה לאחר צהריים רגוע יחד. מאד השתדלנו לרווח את הימים כך שישאר לנו זמן משפחתי רגוע. לשחק ביחד, לקרוא, וללמוד יחד לנגן ב״כלי נגינה של שטח״ שקנינו לטיול.
 
 
 
-ארוחת פרידה
+אחד הדברים שאני אוהב בטיול ארוך בקראוון, הוא שמ״בלי להתכוון״, הילדים לומדים כל כך הרבה דברים שימושיים על החיים. בעוד ביום-יום אנחנו ״מסתירים״ מהם הרבה מהדברים ש״קורים ברקע״ שמאפשרים את החיים, בקראוון הכל ״שקוף״. הילדים שותפים במידה רבה לקניות, בישולים, שטיפת כלים, כביסות, התלבטויות הטיול וכל מיני מנהלות שהם אפילו לא ידעו שקיימות. אפשר לומר שטיול בקראוון הוא ״מיקרו קוסמוס״ לחיי משפחה. אני ממש נהנה לשמוע את השאלות שלהם, להתייעץ איתם ולדבר על למה דברים הם כמו שהם. לנו ה״מבוגרים״ יש המון הרגלים אוטומטיים שאנחנו אפילו לא שמים אליהם לב, לפעמים אפשר ללמוד מהילדים ולנסות דברים חדשים במשפחה.
 
-נגינה
 
-סדרה
+
+ הספקנו גם לעשות ״מסיבת כביסה״ ולהכין עוד ״ארוחת ערב אמריקאית קלאסית״ - והפעם - מק אנד צ׳יז זול מקופסא. בעוד בבית אנחנו מכינים גרסאות מושקעות (וכמובן בריאות יותר) של המאכלים, נחמד גם לתת לילדים לטעום את הגרסאות המקוריות אותן הם רואים בסדרות ובסרטים האמריקאים
+
+<figure class="centered-img">  
+  <img src="nemalaBeer.HEIC"/>  
+  <figcaption>Take it easy Nemala</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="laundryParty.HEIC"/>  
+  <figcaption>מסיבת כביסה</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="playTime1.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="playTime2.HEIC"/>  
+  <figcaption>RV Jamming</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="boxMacAndCheeze.HEIC"/>  
+  <figcaption>קלאסיקה אמריקאית</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="dinnerMacAndCheeze.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="upsideDownBear1.HEIC"/>  
+  <figcaption>השתחוו בפני הוד הפיכותו</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="upsideDownBear2.HEIC"/>  
+  <figcaption>קינוח מושלם עם כל המרקמים שזכה ל״ביקור״</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="goodNightPitim.HEIC"/>  
+  <figcaption>לילה טוב פיטים</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="goodNightAC.HEIC"/>  
+  <figcaption>לילה טוב עלמה שרלוט</figcaption>  
+</figure>
+
+למחרת בבוקר נוסעים לבאנף. גם הבוקר לא מיהרנו ונתנו לילדים לישון עד מאוחר. בעוד במסך הגדול והקטן הילדים צורכים בעיקר תרבות אמריקאית, בקריאה של ספרות קלאסית בעיקר יצא שהילדים קראו סופרים אנגלים. כשיש זמן, או חגיגה מיוחדת, הילדים אוהבים להכין ״ארוחת בוקר כמו מלכת אנגליה״. וכך היה. ללא ספק פארק גליישר יזכר לטובה בפרקי ימי המשפחה. מחר יוצאים לכיוון באנף!
+
+<figure class="centered-img">  
+  <img src="fullEnglish1.HEIC"/>  
+  <figcaption>עלמה שרלוט ״המלכה המבשלת״</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="fullEnglish2.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="fullEnglish3.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="fullEnglish4.HEIC"/>  
+  <figcaption></figcaption>  
+</figure>
