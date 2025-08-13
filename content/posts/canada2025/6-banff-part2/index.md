@@ -1,9 +1,9 @@
 ---
-title: "באנף"
+title: "באנף - חלק ב׳"
 date: 2025-08-02T20:00:00Z
 tags: ["Canada","Banff"]
 author: "Shpandrak"
-
+draft: true
 ---
 
 
