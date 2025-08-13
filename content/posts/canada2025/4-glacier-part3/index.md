@@ -11,7 +11,7 @@ author: "Shpandrak"
 שוב הגענו למרכז המבקרים כדי לתפוס את השאטל למסלול. למרות שהגענו הבה לפני 8, היה בתחנה של השאטל תור ארוך. אנשים, מסתבר, חיכו שם כבר מ6:30. כשהגיע האחראי על ההסעות, הוא בישר לנו שנהג אחד הבריז לו, ויש רק אוטובוס אחד, כך שמי שלא יכנס, יאלץ להמתין לא מעט להסעה הבאה. כדי להוסיף חטא לאיוולת, ה״סדרן המלומד״ התעקש שלמרות שהתור התארגן אחרי מי שהגיע מוקדם, הדרך הנכונה לעמוד בתור היא בכיוון ההפוך, ולכן מי שהגיע אחרון יכנס לאוטובוס ראשון. גם המחאות של האנשים בתור לא עזרו, וסדרן איים שאם נהפוך את הסדר הוא לא יעלה אותם לאוטובוס. הילדים קיבלו הצצה לעולמם של האמריקאים שמצייתים ציות עיוור לכללים, וגם למבוגרים עם ״טיפשות כללית״.  כשהגיע הנהג, הוא היה קצת יותר גמיש והסכים לדחוס באוטובוס אנשים בעמידה ולהושיב ילדים על הברכיים של ההורים כך שנכנסו בשאטל הקטן מעל 50 אנשים.
 
 <figure class="centered-img">  
-  <img src="bus.HEIC"/>  
+  <img src="bus.jpg"/>  
   <figcaption>נדחסים בשאטל של גליישר</figcaption>  
 </figure>
 
@@ -20,91 +20,91 @@ author: "Shpandrak"
 יצאנו לדרך! המסלול התחיל בטיפוס קליל על על גשרי עץ מוגבהים (בטענה שזה עוזר איכשהו לצמחיה להתחדש), אלכס התלוננה שזה ״לא מרגיש כמו טיול״, אבל די מהר גשרוני העץ הסתיימו ואפשר היה ללכת בטבע. 
 
 <figure class="centered-img">  
-  <img src="climb1.HEIC"/>  
+  <img src="climb1.jpg"/>  
   <figcaption>מתחילים במסלול</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="climb2.HEIC"/>  
+  <img src="climb2.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="climb3.HEIC"/>  
+  <img src="climb3.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="climb4.HEIC"/>  
+  <img src="climb4.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 הנופים הפנוראמיים של האחו הפתוח היו יפים והיווי גיוון מרענן. ולאורך המסלול טיילו מרמיטות שמידי פעם הציצו מידי פעם מהמחילות שלהן ולשרון לעוברים ושבים. על השביל פגשנו גם פנים אל פנים את עזי ההרים. עזי ההרים, האנדמיות להרי הרוקי, אמנם גדולות, חזקות ומצויידות בקרניים חדות, לא נחשבות מסוכנות בדרך כלל למטיילים ונחשבות לקמע של גליישר.
 
 <figure class="centered-img">  
-  <img src="mg2.HEIC"/>  
+  <img src="mg2.jpg"/>  
   <figcaption>עז הרי הרוקי</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="mg1.HEIC"/>  
+  <img src="mg1.jpg"/>  
   <figcaption>עז הרי הרוקי</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="marmot.HEIC"/>  
+  <img src="marmot.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="butterfly.HEIC"/>  
+  <img src="butterfly.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="kids.HEIC"/>  
-  <figcaption></figcaption>  
+  <img src="kids.jpg"/>  
+  <figcaption>גורי ליברמן מצוי</figcaption>  
 </figure>
 
 המסלול הקליל מסתיים בתצפית ל״אגם החבוי״ (Hidden lake). מי שרוצה להאריך יכול גם להמשיך עד האגם עצמו, אבל בחרנו ביום רגוע, עשינו ועוד נעשה מסלולים מאמצים יותר. בתצפית, אנשים עם משקפות רציניות השקיפו על דובי גריזלי בצידו השני של האגם, אבל למרות שהבאנו משקפת קטנטנה, לא יכולנו לראות כלום. עדיין ״חייבים לנו״ דוב! אחרי נשנושים בתצפית, חזרנו באותה הדרך. עצרנו קצת להשתולל בגוש שלג שטרם הפשיר. 
 
 <figure class="centered-img">  
-  <img src="hiddenLake.HEIC"/>  
+  <img src="hiddenLake.jpg"/>  
   <figcaption>Hidden lake</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="hiddenLake.HEIC"/>  
+  <img src="hiddenLakeOutlook.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="hiddenLakeOutlookLunch.HEIC"/>  
+  <img src="hiddenLakeOutlookLunch.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="snow1.HEIC"/>  
+  <img src="snow1.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="snow2.HEIC"/>  
+  <img src="snow2.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="snow3.HEIC"/>  
+  <img src="snow3.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="snow4.HEIC"/>  
+  <img src="snow4.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="snow5.HEIC"/>  
+  <img src="snow5.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
@@ -120,78 +120,78 @@ author: "Shpandrak"
  הספקנו גם לעשות ״מסיבת כביסה״ ולהכין עוד ״ארוחת ערב אמריקאית קלאסית״ - והפעם - מק אנד צ׳יז זול מקופסא. בעוד בבית אנחנו מכינים גרסאות מושקעות (וכמובן בריאות יותר) של המאכלים, נחמד גם לתת לילדים לטעום את הגרסאות המקוריות אותן הם רואים בסדרות ובסרטים האמריקאים
 
 <figure class="centered-img">  
-  <img src="nemalaBeer.HEIC"/>  
+  <img src="nemalaBeer.jpg"/>  
   <figcaption>Take it easy Nemala</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="laundryParty.HEIC"/>  
+  <img src="laundryParty.jpg"/>  
   <figcaption>מסיבת כביסה</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="playTime1.HEIC"/>  
+  <img src="playTime1.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="playTime2.HEIC"/>  
+  <img src="playTime2.jpg"/>  
   <figcaption>RV Jamming</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="boxMacAndCheeze.HEIC"/>  
+  <img src="boxMacAndCheeze.jpg"/>  
   <figcaption>קלאסיקה אמריקאית</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="dinnerMacAndCheeze.HEIC"/>  
+  <img src="dinnerMacAndCheeze.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="upsideDownBear1.HEIC"/>  
+  <img src="upsideDownBear1.jpg"/>  
   <figcaption>השתחוו בפני הוד הפיכותו</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="upsideDownBear2.HEIC"/>  
+  <img src="upsideDownBear2.jpg"/>  
   <figcaption>קינוח מושלם עם כל המרקמים שזכה ל״ביקור״</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="goodNightPitim.HEIC"/>  
+  <img src="goodNightPitim.jpg"/>  
   <figcaption>לילה טוב פיטים</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="goodNightAC.HEIC"/>  
+  <img src="goodNightAC.jpg"/>  
   <figcaption>לילה טוב עלמה שרלוט</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="beerSunset.HEIC"/>  
+  <img src="beerSunset.jpg"/>  
   <figcaption>לילה טוב הורים</figcaption>  
 </figure>
 
 למחרת בבוקר נוסעים לבאנף. גם הבוקר לא מיהרנו ונתנו לילדים לישון עד מאוחר. בעוד במסך הגדול והקטן הילדים צורכים בעיקר תרבות אמריקאית, בקריאה של ספרות קלאסית בעיקר יצא שהילדים קראו סופרים אנגלים. כשיש זמן, או חגיגה מיוחדת, הילדים אוהבים להכין ״ארוחת בוקר כמו מלכת אנגליה״. וכך היה. ללא ספק פארק גליישר יזכר לטובה בפרקי ימי המשפחה. מחר יוצאים לכיוון באנף!
 
 <figure class="centered-img">  
-  <img src="fullEnglish1.HEIC"/>  
+  <img src="fullEnglish1.jpg"/>  
   <figcaption>עלמה שרלוט ״המלכה המבשלת״</figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="fullEnglish2.HEIC"/>  
+  <img src="fullEnglish2.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="fullEnglish3.HEIC"/>  
+  <img src="fullEnglish3.jpg"/>  
   <figcaption></figcaption>  
 </figure>
 
 <figure class="centered-img">  
-  <img src="fullEnglish4.HEIC"/>  
+  <img src="fullEnglish4.jpg"/>  
   <figcaption></figcaption>  
 </figure>
