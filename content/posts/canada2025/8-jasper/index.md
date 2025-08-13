@@ -1,4 +1,15 @@
+---
+title: "נוסעים צפונה"
+date: 2025-08-03T20:00:00Z
+tags: ["Canada","Banff"]
+author: "Shpandrak"
+draft: true
+---
+
+
 קנדי עם מקל הוקי
+
+
 
 1844 עצים מעוקמים עם מזל
 
