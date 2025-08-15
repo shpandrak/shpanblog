@@ -164,3 +164,5 @@ todo:amit להוסיף מידע על גליישר ועל הקרחונים שנמ
   <img src="petesPeanuts.jpg"/>  
   <figcaption>לילה טוב ״בוטנים״</figcaption>  
 </figure>
+
+המשך יבוא...
