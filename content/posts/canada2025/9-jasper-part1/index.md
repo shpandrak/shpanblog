@@ -1,6 +1,6 @@
 ---
 title: "part1 ג׳אספר"
-date: 2025-08-09T20:00:00Z
+date: 2025-08-06T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
 draft: true
@@ -59,17 +59,78 @@ draft: true
   <figcaption>קרחון ססקצ'ואן נגלה בפנינו</figcaption>  
 </figure>
 
-מהנקודה בה ניתן לראות את הקרחון המסלול ממשיך מזרחה על צלע ההר. לקראת הסוף המסלול נהיה כבר מאד צר וקצת מסוכן, אבל אז נגמר בעוד נקודת תצפית. 
+מהנקודה בה ניתן לראות את הקרחון המסלול ממשיך מזרחה על צלע ההר. לקראת הסוף המסלול נהיה כבר מאד צר וקצת מסוכן, אבל אז נגמר בעוד נקודת תצפית ממנה התחלנו לחזור. נקודות התצפית על הקרחון לכל אורך הדרך מרהיבות. ניתן לראות בבירור את מסלול הקרחון המקורי ואת הנסיגה שלו - עוד עדות לעתיד לבוא. באינטרנט זמינות תמונות מ100 השנים האחרונות ואפשר ממש לראות את הנסיגה בבירור.
 
+<figure class="centered-img">  
+  <img src="glacier2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
+<figure class="centered-img">  
+  <img src="glacier3.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
+<figure class="centered-img">  
+  <img src="glacier4.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
+<figure class="centered-img">  
+  <img src="ridge1.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="ridge2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="ridge3.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="ridge4.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="ridge5.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
-עוד גבעה לטפס בסוף
+בדרך חזרה מזג האוויר התקדר ואיתו הקור. הנמלה לא התרשמה מהנבואה שדיברה על ירידה חלקלקה בגשם מלאת נפילות ועצמות מתפצפצות והכריחה אותנו לצאת לעוד ״טיפוס צד אחרון״. שרדנו את הטיפוס הלוך חזור ומיהרנו לרדת לפני שהנבואה האיומה תתגשם
 
-טיול בדרך עם הטיפוס: מדרון חלקלק - מגוד מורנינג, דרך בונז׳ור, עד ל״מיאו עם קידה עמוקה״
+<figure class="centered-img">  
+  <img src="nemalaMushrooms1.jpg"/>  
+  <figcaption>נמלת הרים בתנוחה אופיינית</figcaption>  
+</figure>
 
-עצוב - שרוף
+<figure class="centered-img">  
+  <img src="nemalaMushrooms2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="lastClimb.jpg"/>  
+  <figcaption>נמלה מתעלמת מה״נבואה״</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="lastClimbPano.jpg"/>  
+  <figcaption>נמלה אצילית בפסגה</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="lastClimbNotHappy.jpg"/>  
+  <figcaption>פשוטי העם קופאים ב״מסעות הנמלה״</figcaption>  
+</figure>
+
+בירידה אמנם הנבואה לא התגשמה כפשוטה אבל כנראה שדברי מפלצת הספגטי לא ניתנים לפיענוח פשוט. הגשם אמנם חיכה עד שנגיע לקראוון, אך בדרך למטה אכן הגענו ל״מדרון חלקלק ביותר״ באופן מסויים. בטיול הראשון שלנו בקנדה, הכרחנו את אלכס לברך את המטיילים הבאים ממולנו ב״גוד מורנינג״ ברור וחזק. בהמשך הטיול ניסינו ברכות אחרות, אבל הפעם המדרון נהיה חלקלק ביותר לתוך תחום הלא סביר. התחלנו את הירידה כשאלכס צריכה לברך את העולים בברכת ״בונז׳ור״. משם זה המשיך ל״ברכת בונז׳ור עם מבטא צרפתי מוגזם ביותר״. השלב הבא היה ״בונז׳ור עם מבטא צרפתי מוגזם ביותר, ואחריו ׳צחוק צרפתי חסר מעצורים׳״. הירידה עברה מהר עם צחוקים רמים, אבל לא כאן זה נגמר, לא כך חזתה הנבואה - הטיול הסתיים כשהברכה לעולים האומללים הייתה: אלכס נעמדת מולם, יוצרת קשר עין ברור (עד כדי חוסמת את דרכם), נעצרת, ועושה ״מיאו״ ארוך, חזק, ברור ומוגזם תוך כריעה לקידה עמוקה. 😹 עולם הנבואות עמוק ומלא הפתעות.
+
+todo:video
+
+חזרנו לקראוון ונסענו לג׳אספר
+
+todo:jasper
 
 מעל שליש מהמבנים הושמדו
 
@@ -77,4 +138,19 @@ draft: true
  קמפגראון נשרף לחלוטין
 שילוב של כמה שריפות
 
+קראוונים של המקומיים במקום הבתים!
+
 מקלחות חדשות שיא הטכנולוגיה הקנדית
+
+אנשים במשרד התיירות לא העפרון המחודד
+
+<figure class="centered-img">  
+  <img src="jasperFire1.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="jasperFire2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+גגגגג
