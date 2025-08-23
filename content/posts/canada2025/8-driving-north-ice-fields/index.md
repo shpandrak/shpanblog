@@ -187,8 +187,59 @@ author: "Shpandrak"
   <figcaption></figcaption>  
 </figure>
 
-חזרנו קצת דרומה כדי לישון באתר הקמפינג [Silverhorn]([Camping - Banff National Park](https://parks.canada.ca/pn-np/ab/banff/activ/camping#silverhorn)) אותו הזמנו מראש אחרי יום נוסף מלא חוויות.
+todo:youtube
 
 
 
+חזרנו קצת דרומה כדי לישון באתר הקמפינג [Silverhorn]([Camping - Banff National Park](https://parks.canada.ca/pn-np/ab/banff/activ/camping#silverhorn)) אותו הזמנו מראש אחרי יום נוסף מלא חוויות. לראשונה בקנדה ישנו באתר קמפינג בלי שום חיבורים (בלי מים, חשמל או ביוב). לקראוון יש בטריה מספיק גדולה, פאנל סולארי ומיכלים גדולים לאגור מי מקלחת וביוב והכל תפקד מצויין (יש גם גנרטור אם חייבים חשמל במתח גבוהה או נגמרת הסוללה). חניון הלילה היה מאד מוצלח - נוף יפה וחלקות מרווחות. כרגיל איך שהתחלתי לבשל על המדורה התחיל להיות מעונן, אבל הפעם החלטתי לצלוח את מזג האוויר ולבשל קדירה במדורה. הכנתי מספיק גחלים כדי שאפשר יהיה לעבור גם טפטוף קליל והתחלתי לבשל.
 
+<figure class="centered-img">  
+  <img src="campground2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground3.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground4.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground7.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground8.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+משפחה של צרפתים חמודים ביקשו להשתמש בגנרטור שלנו כדי לשלוח מייל חשוב לבית הספר של הילדה. באיזור כולו אין קליטה והיה להם חיבור star link אבל לא היה להם גנרטור. הצרפתים נראו מאד מתורגלים בשטח, בעוד הילדים מדליקים מדורה עם מעילי גשם ומכסים את האש שרק נדלקה מהגשם, ההורים יושבים ושותים ייין. לקוראים העתידיים, starlink זה חיבור לווייני חדשני שאמור לעבוד מכל נקודה על כדור הארץ.  הצרפתי הנחמד נתן לנו להשתמש חופשי בחבילת האינטרנט ללא הגבלה מה שהיה נחמד אחרי כמה ימים בלי קליטה סלולרית (כן, בימינו עדיין אין קליטה בכל מקום).
+
+סיימתי לבשל את הארוחה בגשם קל בלי בעיות ועוד יום טיול מוצלח חלף עבר לו. 
+
+<figure class="centered-img">  
+  <img src="campground10.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground11.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground13.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="campground14.jpg"/>  
+  <figcaption>כותבים חוויות (ומאכלים) ביומנים</figcaption>  
+</figure>
+
+המשך יבוא...
