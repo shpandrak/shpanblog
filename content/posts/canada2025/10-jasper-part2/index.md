@@ -54,13 +54,74 @@ draft: true
   <figcaption></figcaption>  
 </figure>
 
-כשהגענו בחזרה לקראוון מזג האוויר התחיל להתבהר, הילדים ניצלו את ההזדמנות כדי לגבות את החוב של הנמלה לתת להם לשוט בסירה. שכרנו קאנו קטן והשארנו את הנמלה להשתזף ולקרוא ספר לחופי האגם. 
+כשהגענו בחזרה לקראוון מזג האוויר התחיל להתבהר, הילדים ניצלו את ההזדמנות כדי לגבות את החוב של הנמלה לתת להם לשוט בסירה. ניצלנו את ״חלון מזג האוויר השמשי״ הקצר שקיבלנו, שכרנו קאנו קטן והשארנו את הנמלה להשתזף ולקרוא ספר לחופי האגם. 
 
+מהר מאד גיליתי שלילדים אין באמת מספיק כח בידיים להזיז סירה, כך שניצלתי את ההזדמנות לאימון כח. בזמן שה״עבד״ מאחור חתר, הילדים שרו שירים וחיפשו דובים וחיות אחרות על חופי האגם. פרט לכמה ציפורים לא מצאנו חיות מעניינות אבל היה שיט נחמד - הגענו עד לאי, הטרדנו את מנוחתם של כמה ציפורים וסגרנו את ״חוב השייט״ מול הילדים.
 
+<figure class="centered-img">  
+  <img src="boat1.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
+<figure class="centered-img">  
+  <img src="boat2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
+<figure class="centered-img">  
+  <img src="boat3.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
-סירה, נמלה חייבת שירים, מחפשים דובים, מגיעים לאי, רק אני חותר
+<figure class="centered-img">  
+  <img src="boat4.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
 
-סוסים - לילדים מטורף
-האורז של המלחמה הבאה
+את שאר היום שהיה גשום וקר ברובו ניצלנו כדי לאכול צהריים במבשלת הבירה של ג׳אספר (מיט לואף מבשר Elk היה נחמד, ביום גשם, מרק צ׳ילי הוא קינוח מעולה) , לשתות קפה טוב ולהשלים כביסות וזמן אינטרנט חופשי לילדים במכבסה/בית קפה המקומי snowdome (קפה טעים לשם שינוי). המרכז של ג׳אספר אולי היה נחמד לפני השריפה, אבל כרגע נראה קצת עצוב.
+
+<figure class="centered-img">  
+  <img src="brewery1.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="brewery2.jpg"/>  
+  <figcaption>מרק הוא כן קינוח</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="laundry.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="sign.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+
+חזרנו לנוח בקמפגראונד. הפעם החלקה היתה באמת עקומה אז נאלצתי להשתמש לראשונה ב״משולשים הצהובים הללו״. אחרי שגיליתי שזה שטויות, מעכשיו נחנה תמיד ישר... הבנות נסגרו ב ״סטודיו למתיחות״ שלהן (אם כי נשמע הרבה יותר כמו ״סטודיו לצחקוקים״). ביזבזנו את ההקצאה האחרונה לארוחת ערב/בוקר אנגלית אחרונה בקראוון (בישום כרית הנמלה בניחוח בייקון) 
+
+<figure class="centered-img">  
+  <img src="rvstraight1.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="rvstraight2.jpg"/>  
+  <figcaption>בינגו</figcaption>  
+</figure>
+
+<figure class="centered-img">  
+  <img src="evening1.jpg"/>  
+  <figcaption>הסטודיו לצחקוקים של הקרמוגיות</figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="evening2.jpg"/>  
+  <figcaption></figcaption>  
+</figure>
+<figure class="centered-img">  
+  <img src="evening3.jpg"/>  
+  <figcaption>לילה טוב</figcaption>  
+</figure>
+
+המשך יבוא...
