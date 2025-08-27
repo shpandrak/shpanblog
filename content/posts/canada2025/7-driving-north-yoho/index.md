@@ -8,88 +8,43 @@ author: "Shpandrak"
 
 הבוקר חזרנו להשכים קום, נתחיל את המסע שלנו צפונה דרך ״אגם האיזמרגד״ (Emerald lake) שבפארק הלאומי יוהו (Yoho). בחניון האגם מספר מאד מוגבל של מקומות חניה, אז נאלצנו לצאת מוקדם מאד כי היתה לנו שעה נסיעה. התוכנית היתה לאכול את ארוחת הבוקר בחניון ואז לצאת למסלול. כמו בכל בוקר, הילדים התעוררו לקול שריקת הקומקום ולריח חזק של קפה נמס Tim Hortons.
 
-<figure class="centered-img">  
-  <img src="goodMorning.jpg"/>  
-  <figcaption>השכמה! טו טו טו</figcaption>  
-</figure>
+![](goodMorning.jpg "השכמה! טו טו טו")
 
 עד כה מזג האוויר היה מושלם, וגם אם היה קצת גשם הוא תמיד הגיע אחר הצהריים המאוחרים כשסיימנו כבר את הפעילויות שלנו בחוץ. הבוקר היה שונה - התחזית דיווחה על סופות וגשמים בבוקר והתבהרות בהמשך היום. כבר מוקדם מאד בבוקר ראינו שהשמיים כהים מאוד. לא שהייתה לנו יותר מידי ברירה - אבל החלטנו לנסוע לחניון, לאכול, להתארגן ולראות ״מה קורה״. עד שהגענו כבר היה מבול משוגע. בנוסף, אפילו לא היה לנו מקום לחנות את הקראוון. החלטנו ״להתעלם מהעובדות״ ולאכול ארוחת בוקר בקראוון בצד הכביש.
 
-<figure class="centered-img">  
-  <img src="breakfastRain.jpg"/>  
-  <figcaption>ארוחת בוקר חורפית</figcaption>  
-</figure>
+![](breakfastRain.jpg "ארוחת בוקר חורפית")
 
 סיימנו את ארוחת הבוקר, כשבחוץ עדיין מבול. אחד הקראוונים שחנו בחניון התייאש ממזג האוויר והמשיך הלאה - מהר תפסנו את מקום החניה היחיד - בעיה אחת נפתרה... החלטנו לתת לתוכנית עוד צ׳אנס, במקום לדלג על המסלול ולנסוע לקמפגראונד, החלטנו להישאר ולהעביר את ההקרנה המשפחתית מהערב לבוקר. כשיש לנו שעה פנויה בל״וז אנחנו רואים סדרה משותפת. לטיול לקנדה לקחנו את ״חומריו האפלים״ (his dark materials) של פיליפ פולמן. עד כה, עמוק לתוך העונה הראשונה, מאד התחברנו לסדרה - מתעסקת בהרבה נושאים שקרובים לליבי - ילדות, התבגרות וחוליי המימסד הדתי. הסידרה אמנם לא קשורה לקנדה, אבל בהחלט מתאימה לאווירה. יש בה דובים, יש ״מסע צפונה״ אל ארצות הקור, ואפילו יש מקומות מהם ניתן לראות את הזוהר הצפוני! בניגוד לסדרה, (לצערי לפעמים) אצלינו בסיפור לא נחטפים ילדים, כך שאנחנו עדיין בתפוסה מלאה.  החסרון היחיד הוא שלא קראנו את הספרים... אבל נאלץ לתקן בדיעבד... חיברנו רמקולים, העברנו את הקראוון למצב ״קולנוע ביתי״ ושקענו לפרק מותח.
 
-<figure class="centered-img">  
-  <img src="raindyCuddling.jpg"/>  
-  <figcaption>התכרבלות חורפית</figcaption>  
-</figure>
+![](raindyCuddling.jpg "התכרבלות חורפית")
 
 כפי שחזתה התחזית, לאחר שעה של צפיה הגשם פסק, השמיים עדיין היו מעוננים, אבל זה כבר נראה הרבה יותר טוב. ארזנו מעילי גשם, ספריי דובים ונשנושים ויצאנו לדרך למסלול המקיף את האגם.
 
-<figure class="centered-img">  
-  <img src="emerlad1.jpg"/>  
-  <figcaption>השמש מציצה</figcaption>  
-</figure>
+![](emerlad1.jpg "השמש מציצה")
 
-<figure class="centered-img">  
-  <img src="emerald2.jpg"/>  
-  <figcaption>השמש מציצה</figcaption>  
-</figure>
+![](emerald2.jpg "השמש מציצה")
 
-<figure class="centered-img">  
-  <img src="emeraldBearWarning.jpg"/>  
-  <figcaption>משלוח חטיפים עבור הדובים</figcaption>  
-</figure>
+![](emeraldBearWarning.jpg "משלוח חטיפים עבור הדובים")
 
-<figure class="centered-img">  
-  <img src="emeraldBerries.jpg"/>  
-  <figcaption>נשנוש חלופי עבור הדובים</figcaption>  
-</figure>
+![](emeraldBerries.jpg "נשנוש חלופי עבור הדובים")
 
-<figure class="centered-img">  
-  <img src="emeraldWetLeaves.jpg"/>  
-  <figcaption>טיול של אחרי הגשם</figcaption>  
-</figure>
+![](emeraldWetLeaves.jpg "טיול של אחרי הגשם")
 
 ככל שהתקדמנו במסלול השמיים הלכו והתבהרו. הקרקע לעומתם נשארה רטובה. נראה כאילו המסלול בתחזוקה ובמהלך התקנת גשרוני עץ, אבל כרגע המסלול מלא שורשים, שלוליות, בוץ והמון הזדמנויות לפגוש אותם עם הפרצוף. ההתקדמות בחלק הזה של המסלול היתה איטית מאד, אבל מעניינת ושונה מהמסלולים שעשינו עד כה. אין קושי פיזי, אבל צריכים למצוא דרך לעבור ולחמוק מגרביים או עכוז רטובים.
 
-<figure class="centered-img">  
-  <img src="emeraldRoots.jpg"/>  
-  <figcaption>טיול שורשים ושלוליות</figcaption>  
-</figure>
+![](emeraldRoots.jpg "טיול שורשים ושלוליות")
 
-<figure class="centered-img">  
-  <img src="emeraldNemala.jpg"/>  
-  <figcaption>מסלול בשיפוצים</figcaption>  
-</figure>
+![](emeraldNemala.jpg "מסלול בשיפוצים")
 
-<figure class="centered-img">  
-  <img src="emeraldPuddle.jpg"/>  
-  <figcaption>מקפצים בין השלוליות</figcaption>  
-</figure>
+![](emeraldPuddle.jpg "מקפצים בין השלוליות")
 
-<figure class="centered-img">  
-  <img src="emeraldPitim.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldPitim.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldPitim2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldPitim2.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldFamily.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldFamily.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldPano.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldPano.jpg)
 
 האגם אמנם קרוב לשמורת באנף, אבל נמצא כבר בטריטוריה של בריטיש קולומביה, ולכן מדובר בשמורה אחרת. שם השמורה (״יוהו״) נלקח משפת ה״קרי״ ומתאר כפי שנשמע קריאת התפעלות. המקום המוכר ביותר ביוהו הוא אגם או׳הרה, אך לא הצלחנו לבקר בו הפעם, משום שצריך לזכות בהגרלה. מאגם סודי שידוע רק למטיילים יודעי דבר, אגם אוה׳רה הפך ליעד תיירותי עמוס ומלא אנשים - הנהלת השמורה שמה לזה סוף והחליטה לאפשר למספר מוגבל של אנשים את הכניסה באמצעות הגרלה.
 
@@ -97,101 +52,48 @@ author: "Shpandrak"
 
 לקראת סיום המסלול התיישבנו בשמש ורבצנו קצת להפסקת נשנושים ומנוחה. רק לפני זמן קצר התכרבלנו באוטו בסערה קפואה, ועכשיו אנחנו רובצים בשמש...
 
-<figure class="centered-img">  
-  <img src="emeraldShtut.jpg"/>  
-  <figcaption>השטותיים - נוהמים ברוב נימוס</figcaption>  
-</figure>
+![](emeraldShtut.jpg "השטותיים - נוהמים ברוב נימוס")
 
-<figure class="centered-img">  
-  <img src="emeraldKids.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldKids.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldSunny1.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldSunny1.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldSunny2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldSunny2.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldSunny3.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldSunny3.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldSunny4.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](emeraldSunny4.jpg)
 
-<figure class="centered-img">  
-  <img src="emeraldStats.jpg"/>  
-  <figcaption>סטטיסטיקת הליכת שלוליות</figcaption>  
-</figure>
+![](emeraldStats.jpg "סטטיסטיקת הליכת שלוליות")
 
 משם, לאחר עצירה קצרה להתרשם מתצפית ליד ה״גשר הטבעי״ מעל הנהר, נסענו לחניון הלילה [kicking horse](https://parks.canada.ca/pn-np/bc/yoho/activ/camping/avantpays-frontcountry#kickinghorse) בתוך שמורת יוהו. המיקום של חניון הלילה בתוך הנופים הדרמאטיים של ההרים מסביב היה מרהיב. מאחר וסוף סוף מותר היה להדליק אש, ומזג האוויר הפך שוב לקייצי, החלטנו לבשל ארוחת ערב מעל המדורה.
 
-<figure class="centered-img">  
-  <img src="naturalBridge.jpg"/>  
-  <figcaption>תצפית מ״הגשר הטבעי״</figcaption>  
-</figure>
+![](naturalBridge.jpg "תצפית מ״הגשר הטבעי״")
 
-<figure class="centered-img">  
-  <img src="yohoCampground1.jpg"/>  
-  <figcaption>חניון הלילה ב״יוהו״</figcaption>  
-</figure>
-<figure class="centered-img">  
-  <img src="yohoCampground2.jpg"/>  
-  <figcaption>אוספים עצים למדורה</figcaption>  
-</figure>
-<figure class="centered-img">  
-  <img src="yohoCampground3.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-<figure class="centered-img">  
-  <img src="yohoCampground4.jpg"/>  
-  <figcaption>אסור להשאיר את הטלפון בלי השגחה אפילו לשניה</figcaption>  
-</figure>
+![](yohoCampground1.jpg "חניון הלילה ב״יוהו״")
+
+![](yohoCampground2.jpg "אוספים עצים למדורה")
+
+![](yohoCampground3.jpg)
+
+![](yohoCampground4.jpg "אסור להשאיר את הטלפון בלי השגחה אפילו לשניה")
 
 בניגוד לתוכניות שלנו, מזג האוויר הקנדי עדיין לא סיים את התהפוכות שלו להיום. בזמן שתפוחי האדמה כבר היו באש וחיכו לקדרה, העננים שוב התגנבו לשמיים והשמש נעלמה. החלטנו להתעלם מהעננים ולהמשיך בתוכנית. בזמן שהתרחצנו שוב התחיל בחוץ מבול. כשיצאנו, אסייתי נחמד שלא דיבר מילה באנגלית השאיל לנו מטריות כדי שנוכל להשלים את המסע לקראוון מבלי להיספג לחלוטין. הבנו שמדורה כבר לא תהיה היום - הצלתי את תפוחי האדמה מהמדורה אל התנור, ונכנסנו לקראוון לערב אלטרנטיבי של בוריטו מאולתר ומשחקים. הילדים התלהבו מהבוריטו שהפך לאופציה מבוקשת בארוחות הערב בהמשך. 
 
-<figure class="centered-img">  
-  <img src="yohoRainWalk.jpg"/>  
-  <figcaption>מצעד הגשם</figcaption>  
-</figure>
+![](yohoRainWalk.jpg "מצעד הגשם")
 
-<figure class="centered-img">  
-  <img src="yohoCampground5.jpg"/>  
-  <figcaption>שוב ״כלואים״ בקראוון</figcaption>  
-</figure>
+![](yohoCampground5.jpg "שוב ״כלואים״ בקראוון")
 
-<figure class="centered-img">  
-  <img src="yohoNemalaDesert.jpg"/>  
-  <figcaption>נמלה במנוחה?</figcaption>  
-</figure>
+![](yohoNemalaDesert.jpg "נמלה במנוחה?")
 
-<figure class="centered-img">  
-  <img src="yohoDinner1.jpg"/>  
-  <figcaption>בוררריטו</figcaption>  
-</figure>
-<figure class="centered-img">  
-  <img src="yohoDinner2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](yohoDinner1.jpg "בוררריטו")
+
+![](yohoDinner2.jpg)
 
 כשסיימנו לאכול ולשטוף את הכלים - שוב מהפך, אחרי שבחוץ כבר היה קודר וחשוך - שמש בשמיים. כבר הייתה הרגשה של לילה, אבל עדיין, שעת השקיעה המאוחרת בילבלה אותנו, ואחרי הערב הקודר הגיע שוב זמן של שמש. כשיצאתי לוודא שהמדורה כבתה לחלוטין, קרה נס, אחרי כמה נפנופים - המדורה הרטובה הצליחה לתת כמה להבות! הודינו למפלצת הספגטי על הנס והשתמשנו במדורה בשביל המסת הקינוח
 
-<figure class="centered-img">  
-  <img src="yohoSunAfter.jpg"/>  
-  <figcaption>שוב שמש</figcaption>  
-</figure>
+![](yohoSunAfter.jpg "שוב שמש")
 
-<figure class="centered-img">  
-  <img src="yohoMarshmallows.jpg"/>  
-  <figcaption>נס המרשמלו</figcaption>  
-</figure>
+![](yohoMarshmallows.jpg "נס המרשמלו")
 
 הלכנו לישון לקראת המשך המסע צפונה מחר. המשך יבוא...
