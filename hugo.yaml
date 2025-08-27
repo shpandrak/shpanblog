@@ -10,3 +10,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+# Add these lines to enable comments globally
+params:
+  comments: true

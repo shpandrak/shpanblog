@@ -13,81 +13,38 @@ author: "Shpandrak"
 
 אספנו את הציוד, ואחרי תדריך בטיחות קצר והכרות עם המדריך יצאנו לדרך. השמיים התחילו להתבהר ויצאנו לכבוש את הקרחון!
 
-<figure class="centered-img">  
-  <img src="athabasca1-parking.jpg"/>  
-  <figcaption>מוכנים ליציאה</figcaption>  
-</figure>
+![athabasca1-parking.jpg](athabasca1-parking.jpg "מוכנים ליציאה")
 
-<figure class="centered-img">  
-  <img src="athabasca2-climbing.jpg"/>  
-  <figcaption>יוצאים לטיפוס</figcaption>  
-</figure>
+![athabasca2-climbing.jpg](athabasca2-climbing.jpg "יוצאים לטיפוס")
 
-<figure class="centered-img">  
-  <img src="athabasca3-climbing.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca3-climbing.jpg](athabasca3-climbing.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca4-climbing.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca4-climbing.jpg](athabasca4-climbing.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca5-climbing.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca5-climbing.jpg](athabasca5-climbing.jpg)
 
 ממגרש החניה, אוטובוס קטן לקח את הקבוצה לנקודת ההתחלה של הטיפוס. משם טיפסנו מסביב לאגם בשביל שהוביל אותנו למרגלות הקרחון. בדרך סיפר לנו המדריך את הסיפורים מרתקים על הדינאמיות של הקרחונים. כאשר החברה שלהם פתחה את הטיול הראשון לפני 40 שנה, הקרחון הגיע בדיוק לנקודה בה הוריד אותנו האוטובוס ומשם התחיל הטיפוס. מאז, בכל שנה, הקרחון נסוג במהירות מעריכית והמשימה להגיע אליו הולכת ומסתבכת. בכל תחילת עונה, מגיעים המדריכים למרגלות הקרחון ומחליטים איך יגיעו לשם הפעם. מסתבר שהאגם סביבו טיפסנו נוצר רק השנה, והפתיע את החברה כשהגיעו לשם בתחילת העונה. המדריך סיפר שלקח להם 4 ימים רק לחצוב בגרזנים את השביל מסביב לאגם כדי לאפשר את ההליכה.
 
-<figure class="centered-img">  
-  <img src="athabasca6-lake.jpg"/>  
-  <figcaption>חדש - אגם בהתהוות</figcaption>  
-</figure>
+![athabasca6-lake.jpg](athabasca6-lake.jpg "חדש - אגם בהתהוות")
 
 החברה עובדת יחד עם אוניברסיטה בקנדה כדי להעריך מה יהיה תתואי הקרקע בעשרות שנים הבאות. המדריך סיפר שכבר השנה הם יריצו פיילוט שיבדוק ייתכנות ויתן אישור להפוך את החלק הראשון של הטיפוס לשייט בסירה דרך אגם הקרחונים אל מרגלות הקרחון. השביל עליו הלכנו, כך מסתבר, נחצב מעל כמה סנטימטרים של אבנים וחול שנפלו, בעוד מתחתינו יש קרח. מידי פעם אפשר היה לראות קרח מציץ במין האבנים, או את האדמה ״מזיעה״. מכיוון שהקרחון נמס, השביל זז כל הזמן, וצריך לסמן אותו כל כמה ימים מחדש. מידי פעם ציין המדריך נקודות ציון עד אליהן הגיע הקרחון בקיץ מסויים שהמחישו מאד את הנסיגה המואצת.
 
 אחרי כמעט שעה הליכה, הגענו סוף סוף ועלינו על הקרחון, הרכבנו ״קרמפונז״ על הנעיליים למנוע החלקה והתחלנו בטיפוס על הקרחון עצמו
 
-<figure class="centered-img">  
-  <img src="athabasca7-bridge.jpg"/>  
-  <figcaption>עוברים לקרחון</figcaption>  
-</figure>
+![athabasca7-bridge.jpg](athabasca7-bridge.jpg "עוברים לקרחון")
 
-<figure class="centered-img">  
-  <img src="athabasca8-ice.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca8-ice.jpg](athabasca8-ice.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca9-ice.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca9-ice.jpg](athabasca9-ice.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca10-ice.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![athabasca10-ice.jpg](athabasca10-ice.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca12-ice.jpg"/>  
-  <figcaption>עלמה שרלוט - יולקת מי קרחונים</figcaption>  
-</figure>
+![athabasca12-ice.jpg](athabasca12-ice.jpg "עלמה שרלוט - יולקת מי קרחונים")
 
-<figure class="centered-img">  
-  <img src="athabasca11-eat-ice.jpg"/>  
-  <figcaption>אלכס - זוללת קרחונים</figcaption>  
-</figure>
+![athabasca11-eat-ice.jpg](athabasca11-eat-ice.jpg "אלכס - זוללת קרחונים")
 
-<figure class="centered-img">  
-  <img src="athabasca13-ice.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca14-family-.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca13-ice.jpg)
+![](athabasca14-family-.jpg)
 
 מעניין מה יהיה תוואי השטח, מומחים, סירה, מנסים 
 
@@ -97,30 +54,14 @@ author: "Shpandrak"
 
 כמו בפוסטים הקודמים בנושא השריפות - שינוי הוא לא בהכרח שלילי, הוא פשוט... שונה. הדבר היחיד הקבוע בטבע - הוא שהטבע משתנה כל הזמן. אני מקווה שהאנושות תמצא פתרונות יצירתיים ותשרוד גם את משבר האקלים הנוכחי - אם בכלל ישאר משהו מהאנושות אחרי מלחמת העולם השלישית... בנימה חיובית יותר, המסת הקרחון יוצרת מפלונים ובורות מרהיבים בקרחון מהם ניתן להתרשם במהלך הטיפוס. המדריך סיפק הסברים מעניינים לתופעוות שיוצר הקרחון במהלך המחזורי של גדילה והתכווצות ונתן כל מיני שמות לסוגים שונים של בקעים בקרח להם אין ממש שמות בעברית יומיומית.
 
-<figure class="centered-img">  
-  <img src="athabasca15-lookdown.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca15-lookdown.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca16.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca16.jpg)
 
-<figure class="centered-img">  
-  <img src="athabasca17-c.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca17-c.jpg)
+![](athabasca18-waterfall.jpg "מפל קרחון נמס")
 
-<figure class="centered-img">  
-  <img src="athabasca18-waterfall.jpg"/>  
-  <figcaption>מפל קרחון נמס</figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca19-lookdonw.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca19-lookdonw.jpg)
 
 קרחון אתבסקה התחיל את נסיגתו כבר ב1840 בסוף ״עידן הקרח הקטן״. החוקרים יודעים לומר את השנה המדוייקת מפני שהקרחון, בעודו מתרחב, רומס כל מה שעובר בדרכו. בחורף שנת 1840 הקרחון הספיק לכופף שורה של עצים לפני שנעצר והחל לסגת. העצים ברי המזל שרדו והמשיכו לצמוח כאשר החלק התחתון של הגזע שלהם מכופף. החוקרים חתכו את אחד הגזעים וספרו את הטבעות. 
 
@@ -128,117 +69,42 @@ author: "Shpandrak"
 
 היו עוד סיפורים והסברים מעניינים, אך אשאיר לכם סיבה לבוא לשמוע עוד בעצמכם. ההגענו לנקודה הגבוהה ביותר אליה אפשר להגיע בלי ציוד טיפוס מתקדם (גרזנים וחבלים). הצטלמנו והתחלנו לרדת. מומלץ ביותר - לא לפספס!
 
-<figure class="centered-img">  
-  <img src="athabasca21.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca22.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca23.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca24.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca25-down.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](athabasca21.jpg)
+![](athabasca22.jpg)
+![](athabasca23.jpg)
+![](athabasca24.jpg)
+![](athabasca25-down.jpg)
 
 חזרנו לקראוון מרוצים וקיבלנו אישור מהנמלה לממרח ״לא הכי בריא״. קראתי קצת (וננזפתי בעקבות כך) ביומנים שהילדים כותבים בטיול. מצחיק לראות איך לפעמים אנחנו עושים דברים מטורפים, ועיקר הכתיבה שלהם מתמקדת דווקא בשטויות שאכלנו. עלמה שרלוט ופיט בעיקר בדברים המלוחים, ואלכס ה״מתוקית״ מרחיבה על כל דבר מתוק שהיא דחפה לפה. מכאן אני מסיק שחשוב לציין את הדברים גם בבלוג המשפחתי ☺️. יותר מאשר ממתקים, בשביל טיול מושלם, לפעמים פשוט צריכים מזל. כשהצצנו מחלון הקראוון ראינו שמזג האוויר התקדר, גשם התחיל לרדת, והקרחון כולו התמלא ערפל ומטפסים רטובים וקפואים.
 
-<figure class="centered-img">  
-  <img src="athabasca26-cloudy.jpg"/>  
-  <figcaption>מזל</figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca27-prize.jpg"/>  
-  <figcaption>״פרס״</figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="athabasca28-famback.jpg"/>  
-  <figcaption>משפחה ברת מזל</figcaption>  
-</figure>
+![](athabasca26-cloudy.jpg "מזל")
+![](athabasca27-prize.jpg "פרס")
+![](athabasca28-famback.jpg "משפחה ברת מזל")
 
 אם כבר מדברים על מזל, אז דווקא בהמשך הנסיעה צפונה ״זה קרה״. אמנם כבר ראינו בחטף דוב מהאוטובוס, הפעם היה לנו מפגש אינטימי יותר - בדומה למפגש שהיה לנו ביוסמיטי, באמצע הכביש ראיתי רכב בשוליים במקום לא הגיוני, מיד עצרתי והתחלנו לסרוק. ממש צמוד לקראוון הסתובב דב שחור ונשנש לו בנחת מכל הבא ליד. לא היה נראה שהקרבה לאנשים עושה עליו איזה רושם אז נשארנו כמה דקות בסביבה (בתוך הקראוון כמובן) וצפינו ב״מלך הרי הרוקי״ בפעולה. בלי צורך בספריי דובים ופחד מוות - זאת ללא ספק הדרך המוצלחת ביותר לצרוך מפגשי דובים...
 
-<figure class="centered-img">  
-  <img src="bear1.jpg"/>  
-  <figcaption>דובי דב</figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="bear2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="bear3.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](bear1.jpg "דובי דב")
+![](bear2.jpg)
+![](bear3.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UMKSIUIg5fI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 חזרנו קצת דרומה כדי לישון באתר הקמפינג [Silverhorn]([Camping - Banff National Park](https://parks.canada.ca/pn-np/ab/banff/activ/camping#silverhorn)) אותו הזמנו מראש אחרי יום נוסף מלא חוויות. לראשונה בקנדה ישנו באתר קמפינג בלי שום חיבורים (בלי מים, חשמל או ביוב). לקראוון יש בטריה מספיק גדולה, פאנל סולארי ומיכלים גדולים לאגור מי מקלחת וביוב והכל תפקד מצויין (יש גם גנרטור אם חייבים חשמל במתח גבוהה או נגמרת הסוללה). חניון הלילה היה מאד מוצלח - נוף יפה וחלקות מרווחות. כרגיל איך שהתחלתי לבשל על המדורה התחיל להיות מעונן, אבל הפעם החלטתי לצלוח את מזג האוויר ולבשל קדירה במדורה. הכנתי מספיק גחלים כדי שאפשר יהיה לעבור גם טפטוף קליל והתחלתי לבשל.
 
-<figure class="centered-img">  
-  <img src="campground2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](campground2.jpg)
+![](campground3.jpg)
 
-<figure class="centered-img">  
-  <img src="campground3.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground4.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground7.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground8.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](campground4.jpg)
+![](campground7.jpg)
+![](campground8.jpg)
 
 משפחה של צרפתים חמודים ביקשו להשתמש בגנרטור שלנו כדי לשלוח מייל חשוב לבית הספר של הילדה. באיזור כולו אין קליטה והיה להם חיבור star link אבל לא היה להם גנרטור. הצרפתים נראו מאד מתורגלים בשטח, בעוד הילדים מדליקים מדורה עם מעילי גשם ומכסים את האש שרק נדלקה מהגשם, ההורים יושבים ושותים ייין. לקוראים העתידיים, starlink זה חיבור לווייני חדשני שאמור לעבוד מכל נקודה על כדור הארץ.  הצרפתי הנחמד נתן לנו להשתמש חופשי בחבילת האינטרנט ללא הגבלה מה שהיה נחמד אחרי כמה ימים בלי קליטה סלולרית (כן, בימינו עדיין אין קליטה בכל מקום).
 
 סיימתי לבשל את הארוחה בגשם קל בלי בעיות ועוד יום טיול מוצלח חלף עבר לו. 
 
-<figure class="centered-img">  
-  <img src="campground10.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground11.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground13.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-
-<figure class="centered-img">  
-  <img src="campground14.jpg"/>  
-  <figcaption>כותבים חוויות (ומאכלים) ביומנים</figcaption>  
-</figure>
+![](campground10.jpg)
+![](campground11.jpg)
+![](campground13.jpg)
+![](campground14.jpg "כותבים חוויות (ומאכלים) ביומנים")
 
 המשך יבוא...
