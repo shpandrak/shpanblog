@@ -12,17 +12,11 @@ author: "Shpandrak"
 
 לזכות האמריקים אפשר לזקוף את העובדה שהם המציאו לנו את וולמארט, שסניפיה פרושים גם בקנדה. (לצערנו רשת Wholefoods פסחה על קנדה). עצרנו בוולמארט בדרך להשלמת חוסרים והצטיידות והגענו לחניון הלילה בבאנף
 
-<figure class="centered-img">  
-  <img src="wallmart.jpg"/>  
-  <figcaption>וולמארט קנדה - תודה אמריקה</figcaption>  
-</figure>
+![](wallmart.jpg "וולמארט קנדה - תודה אמריקה")
 
 באנף היא עד כדי כך פופולארית, שלמרות שברשותי נמלה עילאית, לא היה פשוט למצוא מקומות לינה בשמורה. אתרי הקמפינג בתוך השמורה נפתחים לרישום חודשים רבים לפני העונה, אך עם זאת, כולם מסתערים על המקומות והשמורות מתמלאות עוד באותו יום בו נפתח הרישום. הצלחנו לתפוס מקומות בחניון הלילה ״Tunnel Mountain Trailer Court״ שבתוך השמורה, אם כי כל לילה בחלקה אחרת. בשונה מחניונים פרטיים, חניונים שבתוך השמורות הם אמנם פחות ״מפנקים״, אבל לפעמים ממוקמים במקומות מאד יפים. למרות הגודל העצום של החניון, הוא היה נחמד והיה מספיק מרווח. הילדים כבר החלו להתרגל שמידי פעם מלווה אותם איזושהי חיה משונה בדרכם למקלחת.
 
-<figure class="centered-img">  
-  <img src="elkCampground.jpg"/>  
-  <figcaption>חבר למחנה</figcaption>  
-</figure>
+![](elkCampground.jpg "חבר למחנה")
 
 אז אמרנו כבר שבאנף פופולארית? עד כדי כך פופולארית שיש חניון ענק ליד השלט בו כתוב ״באנף״ בשם ״חניון השלט של באנף״ ואנשים עומדים בתור כדי להצטלם עם שלט!
 
@@ -30,169 +24,80 @@ author: "Shpandrak"
 
 אם באנף תיירותית ועמוסה, אגם לואיז הוא כל זה, מתנקז לנקודה בודדת במרחב. מכיוון שלא ניתן להגיע לשם עם קראוון נאלצנו להזמין מראש אוטובוס מהחניון. הזמנו את האוטובוס לשעה המוקדמת ביותר והכל עבד חלק. אנשים אמנם מתנהגים כמו עדר, אבל אנשים, יותר מכל דבר אחר הם ברובם עצלנים, ״אם מקדימים - מגיעים למקומות נפלאים״
 
-<figure class="centered-img">  
-  <img src="lakeLouise.jpg"/>  
-  <figcaption>אגם לואיז על הבוקר</figcaption>  
-</figure>
+![](lakeLouise.jpg "אגם לואיז על הבוקר")
 
-<figure class="centered-img">  
-  <img src="pitimLakeLouise.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](pitimLakeLouise.jpg)
 
-<figure class="centered-img">  
-  <img src="familyLakeLouise.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](familyLakeLouise.jpg)
 
 הצטלמנו בנקודה המפורסמת בה כל התיירים מצטלמים (אגב נסיעות ארוכות, לחשב כמה הרכבים כאלה יש במשפחה בת 5 נפשות זה תרגיל מעולה לנסיעה - אנחנו אוהבים לתת לילדים תרגיל משותף לפני שהם מקבלים ״חטיף נסיעה״.  אחרי  שהצטלמנו בכמעט כל 31 התמונות האפשריות (אין חשיבות לסדר העמידה), יצאנו לדרך! אם השכמה מוקדמת לא מספיקה כדי להמנע מההמון, טיפוס רגלי עם הפרש גובה של 600 מטר כבר ״ישבור״ את העדר לחלוטין ויאפשר להינות מהטבע כמעט לבד.
 
-<figure class="centered-img">  
-  <img src="amitLakeLouise.jpg"/>  
-  <figcaption>יוצאים לדרך</figcaption>  
-</figure>
+![](amitLakeLouise.jpg "יוצאים לדרך")
 
-<figure class="centered-img">  
-  <img src="louiseSign.jpg"/>  
-  <figcaption>תדריך הליכה</figcaption>  
-</figure>
+![](louiseSign.jpg "תדריך הליכה")
 
-<figure class="centered-img">  
-  <img src="climb1.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](climb1.jpg)
 
-<figure class="centered-img">  
-  <img src="mushrooms1.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](mushrooms1.jpg)
 
-<figure class="centered-img">  
-  <img src="climb2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](climb2.jpg)
 
-<figure class="centered-img">  
-  <img src="mushrooms2.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](mushrooms2.jpg)
 
 המסלול לא קשה ומידי פעם נחשפים מתוך היער עוד ועוד נופים. די מהר מגיעים לאגם קטן בשם Mirror lake ועוד קצת אחריו אגם אגנס. המסלול והנופים מאד יפים - אגמים, מפלים, כל מה שאפשר לבקש. רוב המסלולים שהלכנו בהם לא מעגליים. בדרך חזרה ניתן לראות איך חלק מהנופים משתנים לחלוטין לפי מיקום השמש. הגענו לאגם אגנס, שם עשינו הפסקת נשנושים על חוף האגם. ליד האגם יש ״בית תה״. בעוד אנחנו פינטזנו איך נשב ב״בית התה״ ונעשה הפסקת בירה וצ׳יפס מול נופי האגם, הקנדים הארורים באמת מכרו שם... תה!
 
-<figure class="centered-img">  
-  <img src="mirrorLake.jpg"/>  
-  <figcaption>אגם המראה בדרך למעלה</figcaption>  
-</figure>
+![](mirrorLake.jpg "אגם המראה בדרך למעלה")
 
-<figure class="centered-img">  
-  <img src="mirrorLakeWayDown.jpg"/>  
-  <figcaption>אגם המראה בדרך למטה - עם השמש</figcaption>  
-</figure>
+![](mirrorLakeWayDown.jpg "אגם המראה בדרך למטה - עם השמש")
 
-<figure class="centered-img">  
-  <img src="charlotteMirror.jpg"/>  
-  <figcaption>מראה מראה שבאגם, מי התינוק הכי מתוק בעולם</figcaption>  
-</figure>
+![](charlotteMirror.jpg "מראה מראה שבאגם, מי התינוק הכי מתוק בעולם")
 
-<figure class="centered-img">  
-  <img src="agnesWaterfall.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](agnesWaterfall.jpg)
 
 למרות שמדובר בהליכה עם קצת טיפוס, בגלל שהמקום באמת נחשב לנק׳ המפורסמת ביותר בקנדה, עדיין נהרו לכיוון אגם אגנס לאט לאט עוד ועוד מטיילים מסוגים שונים. חלקם מורגלים בטיולי טבע וחלקם רחוק מכך. תמונה שתיחקק בזיכרון המשפחתי היא משפחה ההודית שטיפסה כשהאמא עם נעלי בובה מוזהבות והילדה עם לא פחות מ ״שמלת נשף״ (!) מכאן המשכנו בטיפוס לנק׳ התצפית ״הכוורת הקטנה״. נקודה גבוהה ששימשה בעבר בתור נק תצפית לזיהוי מוקדם של שריפות. החל מאגם אגנס, כבר  היו מטיילים בודדים, והנופים פיצו על הטיפוס הנוסף. מאגם אגנס יוצא גם מסלול ל״כוורת הגדולה״, נשמור אותו לטיול הבא...
 
-<figure class="centered-img">  
-  <img src="agnesLake.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](agnesLake.jpg)
 
-<figure class="centered-img">  
-  <img src="mirrorLakeFromAbove.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](mirrorLakeFromAbove.jpg)
 
-<figure class="centered-img">  
-  <img src="kidsClimbingToBeeHive.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](kidsClimbingToBeeHive.jpg)
 
-<figure class="centered-img">  
-  <img src="kidsBeeHive.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](kidsBeeHive.jpg)
 
-<figure class="centered-img">  
-  <img src="nemalaBeeHive.jpg"/>  
-  <figcaption>נמלת הרים אהובה</figcaption>  
-</figure>
+![](nemalaBeeHive.jpg "נמלת הרים אהובה")
 
-<figure class="centered-img">  
-  <img src="lakeLouiseAbove.jpg"/>  
-  <figcaption>אגם לואיז מנקודת התצפית ״כוורת הדבורים הקטנה״</figcaption>  
-</figure>
+![](lakeLouiseAbove.jpg "אגם לואיז מנקודת התצפית ״כוורת הדבורים הקטנה״")
 
-<figure class="centered-img">  
-  <img src="lakeLouiseStats.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](lakeLouiseStats.jpg)
 
 משם ירדנו בחזרה לתפוס את האוטובוס לקראוון שלנו שחיכה בחניון. אחרי הצצה זריזה במרכז המבקרים, הבנו שמדובר ב״גזלן על סטרואידים״, ואת ״התרעננות סיום המסלול הרשמית״ עשינו בקראוון. לאחר הפסקת ההתרעננות הבריאה, וחרף אזהרתה הנחושה של הנמלה החלטנו לעשות ניסוי. לטענתה של הנמלה, אם אחרי שתיית ״סקוויזי״ פירות בריא, ניקח כמה עוגיות אוראו, נטבול אותן בחלב(אבוי), ואז נסיע את הילדים בקראוון ו״נשקשק״ אותם, זה יגמר ״רע מאד״. וכך היה...  תוצאות הניסוי היו חד משמעיות. פיט, המסווג במחלקת ה״נמלים״, רגיש מאד לשיקשוק מהסוג שתואר. לקראת הערב היה לו כאב בטן(!) ואילו הבנות, שחד משמעית מסווגות במחלקת ה״שטותיים״ לא הראו שום רגישות לשקשוקים חלביים-פירותיים. מעניין, יום אחד ימצאו את הגן שאחראי על שקשוקי חלב... *הבהרה משפטית*: מסמך זה מתאר תעוד ראשון לניסוי שחושף את הגן, גן זה ראוי להיקרא גן ״נמשלוקי-שיקשוקי״. פרס הנובל מוקדש לפיט המסכן, שלא צלח את הניסוי.
 
 אחרי שקשוק הילדים בחזרה למחנה, נשאר לנו המון זמן יחד לנוח ולהרגע, יחד, וכל אחד בענייניו
 
-<figure class="centered-img">  
-  <img src="refresh.jpg"/>  
-  <figcaption>הפסקת התרעננות רשמית</figcaption>  
-</figure>
+![](refresh.jpg "הפסקת התרעננות רשמית")
 
-<figure class="centered-img">  
-  <img src="shikshuki.jpg"/>  
-  <figcaption>תעוד רשמי של הניסוי</figcaption>  
-</figure>
+![](shikshuki.jpg "תעוד רשמי של הניסוי")
 
-<figure class="centered-img">  
-  <img src="alexStrech.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
-<figure class="centered-img">  
-  <img src="nemalaYoga.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](alexStrech.jpg)
 
-<figure class="centered-img">  
-  <img src="almaStrech.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](nemalaYoga.jpg)
+
+![](almaStrech.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJKfywWgb2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-בבאנף, כמו בשמורות אחרות (ובניגוד לניסיון שלנו בפארקים בארה״ב) יש לסרוגין איסור על הדלקת אש. למקומיים זה בכלל לא מפריע מפני שכולם תמיד מצויידים מצויידים במיכלי פרופיין ענקיים (גז) המחוברים למכשירי צלייה במגוון גדלים וסוגים בין כיריים, מנגל, מדורת פרופיין או שילוב של כל אלה. כל זה בשילוב העובדה שהנמלה, בנוסף להיותה נשאית של גן הנמשלוקי שקשוקי, לא אוהבת שהכרית שלה ״מריחה כמו נקניקיה״, מגביל את היצירתיות שלי בהכנת ארוחת הערב. במעבר בוולמארט, חרשתי על כל המסדרון של כלי בישול לקמפינג. בלב כבד ויתרתי על על כל הציוד המשוכלל שראיתי והתפשרתי על הכירה החיצונית הפשוטה ביותר שבנמצא.
+בבאנף, כמו בשמורות אחרות (ובניגוד לניסיון שלנו בפארקים בארה״ב) יש לסרוגין איסור על הדלקת אש. למקומיים זה בכלל לא מפריע מפני שכולם תמיד מצויידים מצויידים במיכלי פרופיין ענקיים (גז) המחוברים למכשירי צלייה במגוון גדלים וסוגים בין כיריים, מנגל, מדורת פרופיין או שילוב של כל אלה. כל זה בשילוב העובדה שההנמלה, בנוסף להיותה נשאית של גן הנמשלוקי שקשוקי, לא אוהבת שהכרית שלה ״מריחה כמו נקניקיה״, מגביל את היצירתיות שלי בהכנת ארוחת הערב. במעבר בוולמארט, חרשתי על כל המסדרון של כלי בישול לקמפינג. בלב כבד ויתרתי על על כל הציוד המשוכלל שראיתי והתפשרתי על הכירה החיצונית הפשוטה ביותר שבנמצא.
 
 לארוחת הערב היומית הוגש חזה עוף צלוי בציר בקר סמיך. הכירה שקניתי, שנועדה להרתיח מים לתה, נמסה והתפרקה כשסיימתי לצמצם את הרוטב ואיתה התמוססה גם אופציית הבישול בחוץ... על כלי בישול לא מתפשרים... בפעם הבאה קונים מפלצת ומשאירים אותה פה :)
 
-<figure class="centered-img">  
-  <img src="stove.jpg"/>  
-  <figcaption>כירה של ארוחה אחת</figcaption>  
-</figure>
+![](stove.jpg "כירה של ארוחה אחת")
 
-<figure class="centered-img">  
-  <img src="dinner.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](dinner.jpg)
 
 קינוח צחצוח ולישון! המשך יבוא...
 
-<figure class="centered-img">  
-  <img src="charlotteSmores.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](charlotteSmores.jpg)
 
-<figure class="centered-img">  
-  <img src="kidsSmores.jpg"/>  
-  <figcaption>הקינוח הרשמי של הטיול</figcaption>  
-</figure>
+![](kidsSmores.jpg "הקינוח הרשמי של הטיול")
 
-<figure class="centered-img">  
-  <img src="brushing.jpg"/>  
-  <figcaption></figcaption>  
-</figure>
+![](brushing.jpg)
