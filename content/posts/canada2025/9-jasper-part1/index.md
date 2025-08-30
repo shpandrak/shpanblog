@@ -3,6 +3,7 @@ title: "part1 ג׳אספר"
 date: 2025-08-06T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
+weight: 9
 ---
 
 את הבוקר פתחנו באתר הקמפינג ביוהו.

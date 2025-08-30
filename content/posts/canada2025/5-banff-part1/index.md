@@ -3,6 +3,7 @@ title: "באנף"
 date: 2025-08-01T20:00:00Z
 tags: ["Canada","Banff"]
 author: "Shpandrak"
+weight: 5
 
 ---
 

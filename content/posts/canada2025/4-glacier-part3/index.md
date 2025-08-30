@@ -3,6 +3,7 @@ title: "נפרדים מגליישר"
 date: 2025-07-30T20:00:00Z
 tags: ["USA"]
 author: "Shpandrak"
+weight: 4
 
 ---
 

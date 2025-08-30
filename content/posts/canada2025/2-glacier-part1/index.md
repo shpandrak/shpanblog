@@ -3,6 +3,8 @@ title: "עוברים לארה״ב - Glacier National Park"
 date: 2025-07-28T20:00:00Z
 tags: ["USA", "Glacier National Park"]
 author: "Shpandrak"
+weight: 2
+series: ["Canada2025"]
 
 ---
 
