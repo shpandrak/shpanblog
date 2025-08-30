@@ -49,7 +49,7 @@ cover:
 
 ![](frozenLake3.jpg)
 
-![](yaelPhotoLake.JPG)
+![](yaelPhotoLake.jpg)
 
 ![](kidsFrozenLake1.jpg "לטבול, או לא לטבול?")
 
