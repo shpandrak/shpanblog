@@ -9,6 +9,8 @@ cover:
   image: "kids2.jpg"
   hiddenInSingle: true
   responsiveImages: true
+  relative: true
+
 
 ---
 
