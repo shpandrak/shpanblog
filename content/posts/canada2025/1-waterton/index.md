@@ -4,7 +4,7 @@ date: 2025-07-27T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
 weight: 1
-
+comments: true
 cover:
     image: "bearsHumpTopView.jpg"
     hiddenInSingle: true

@@ -18,4 +18,6 @@ taxonomies:
   tag: tags
   category: categories
   series: series
-
+services:
+  disqus:
+    shortname: 'shpanblog'
