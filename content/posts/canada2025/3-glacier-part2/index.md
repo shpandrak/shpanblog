@@ -6,7 +6,8 @@ author: "Shpandrak"
 weight: 3
 series: ["Canada2025"]
 cover:
-  image: "yaelPhotoLake.JPG"
+  image: "yaelPhotoLake.jpg"
+  hiddenInSingle: true
   relative: true
 
 ---
