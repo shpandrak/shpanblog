@@ -3,6 +3,12 @@ title: "קנדה 2025"
 date: 2025-07-26T05:34:00Z
 tags: ["Canada"]
 author: "Shpandrak"
+cascade:
+  params:
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowShareButtons: true
+    series: ["Canada2025"]
 
 ---
 

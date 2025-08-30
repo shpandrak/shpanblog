@@ -4,7 +4,6 @@ date: 2025-07-29T20:00:00Z
 tags: ["USA"]
 author: "Shpandrak"
 weight: 3
-series: ["Canada2025"]
 cover:
   image: "yaelPhotoLake.jpg"
   hiddenInSingle: true

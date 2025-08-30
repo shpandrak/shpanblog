@@ -3,8 +3,8 @@ title: "יוצאים לדרך - Waterton lakes park"
 date: 2025-07-27T20:00:00Z
 tags: ["Canada"]
 author: "Shpandrak"
-series: ["Canada2025"]
 weight: 1
+
 cover:
     image: "bearsHumpTopView.jpg"
     hiddenInSingle: true
