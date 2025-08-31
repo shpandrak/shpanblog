@@ -88,7 +88,8 @@ weight: 8
 ![](bear2.jpg)
 ![](bear3.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UMKSIUIg5fI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< youtube UMKSIUIg5fI >}}
 
 חזרנו קצת דרומה כדי לישון באתר הקמפינג [Silverhorn]([Camping - Banff National Park](https://parks.canada.ca/pn-np/ab/banff/activ/camping#silverhorn)) אותו הזמנו מראש אחרי יום נוסף מלא חוויות. לראשונה בקנדה ישנו באתר קמפינג בלי שום חיבורים (בלי מים, חשמל או ביוב). לקראוון יש בטריה מספיק גדולה, פאנל סולארי ומיכלים גדולים לאגור מי מקלחת וביוב והכל תפקד מצויין (יש גם גנרטור אם חייבים חשמל במתח גבוהה או נגמרת הסוללה). חניון הלילה היה מאד מוצלח - נוף יפה וחלקות מרווחות. כרגיל איך שהתחלתי לבשל על המדורה התחיל להיות מעונן, אבל הפעם החלטתי לצלוח את מזג האוויר ולבשל קדירה במדורה. הכנתי מספיק גחלים כדי שאפשר יהיה לעבור גם טפטוף קליל והתחלתי לבשל.
 

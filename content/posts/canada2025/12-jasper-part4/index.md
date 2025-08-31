@@ -1,9 +1,9 @@
 ---
-title: "נפרדים מהרי הרוקי"
-date: 2025-09-08T20:00:00Z
+title: "ג׳אספר - נפרדים מהרי הרוקי"
+date: 2025-08-08T20:00:00Z
 tags: ["Canada","Jasper"]
 author: "Shpandrak"
-weight: 4
+weight: 12
 ---
 
 היום הוא הפרק האחרון בשמורת ג׳אספר ובהרי הרוקי בכלל, לקראת פתיחת הפרק הקייצי יותר של הטיול והמסע דרומה. את חגיגות הפרידה נפתח בצורה אופיינית עם השקמה וטיפוס על ״הר רוקי״ שורץ דובים. נסענו מזרחה לכיוון אגם מלין (Maligne lake)
@@ -82,6 +82,6 @@ weight: 4
 
 ![](evening8.jpg "״האורז של המרחב המוגן״")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KUSGpyIG3yE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube KUSGpyIG3yE >}}
 
 ![](goodNight.jpg "לילה טוב")
